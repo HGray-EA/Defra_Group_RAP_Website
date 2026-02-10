@@ -1,0 +1,59 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "Defra Group RAP Champion Network"
+  description: "Homepage for Reproducible Analytical Pipelines in Defra Group."
+  site-url: "https://sta210-s22.github.io/website/"
+
+  repo-url: https://github.com/sta210-s22/website
+  repo-actions: [edit, issue]
+
+  open-graph: true
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    background: "#D9E3E4"
+
+  sidebar:
+    background: "#D9E3E4"
+    logo: "RAP_blue_pipe.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/orgs/Defra-Data-Science-Centre-of-Excellence/teams/defra-group-rap-champions/repositories
+        text: "GitHub RAP Repositories"
+        
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - section: "Implementing RAP?"
+        contents:
+          - href: https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/
+            text: What is RAP - Analysis Function
+          - href: Implementing_RAP.qmd
+            text: How to RAP
+          - href: Levels_of_RAP.qmd
+            text: Maturity Levels of RAP
+      - section: "Resources"
+        contents:
+          - href: https://defra.sharepoint.com/sites/Community4220/SitePages/RAP-Resource-Library.aspx
+            text: RAP Resources
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+freeze: auto
+
+editor: visual
+
