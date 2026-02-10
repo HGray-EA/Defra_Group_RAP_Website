@@ -30,6 +30,10 @@ website:
     search: true
     collapse-level: 1
     contents:
+      - section: "Homepage"
+        contents: 
+          - href: index.qmd
+            text: "Homepage"
       - section: "Implementing RAP?"
         contents:
           - href: https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/
