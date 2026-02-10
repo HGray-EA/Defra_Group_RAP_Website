@@ -9,7 +9,7 @@
   <p>A Welcome to the Defra Group RAP Community of Practice Repository </p>
 </div>
 
-Visit our (website)[link] for more information about RAP!
+Visit our [website][(link when we have it) for more information about RAP!
 
 Please see our contributing instructions if you'd like to suggest a change, or develop our resources.
 
