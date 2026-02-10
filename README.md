@@ -3,9 +3,6 @@
   *** Here's some markdown guidance: https://www.markdownguide.org/basic-syntax/#reference-style-links
   *** https://shields.io/badges/static-badge
   -->
-  [![Contributors](https://img.shields.io/github/contributors/FlickswitchGray/Demo_readme)](https://github.com/FlickswitchGray/Demo_readme/graphs/contributors)
-  ![Development](https://img.shields.io/badge/Development_Status-under-development-blue)
-
 
 <div align= "center">
   <h2> Defra Group RAP Community of Practice </h2>
