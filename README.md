@@ -5,7 +5,7 @@
   -->
 
 <div align= "center">
-  <h2> Defra Group RAP Community of Practice </h2>
+  <h2> :sparkler: Defra Group RAP Community of Practice Website :sparkler: </h2>
   <p>A Welcome to the Defra Group RAP Community of Practice Repository </p>
 </div>
 
