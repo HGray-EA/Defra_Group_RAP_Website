@@ -1,0 +1,17 @@
+---
+title: "How to RAP"
+
+tags: 
+  - Levels of RAP
+  - Preparing for RAP
+---
+
+## TL:DR
+
+Lorem ipsum dolor sit amet. Ut consequatur tempore ab perferendis voluptate est animi necessitatibus id autem temporibus et itaque minus. Et dolore saepe nam laudantium repellat eos Quis officia. Et quia obcaecati eum unde expedita quo dolore voluptas sit nisi Quis.
+
+## [Maturity Levels of RAP](https://nhsdigital.github.io/rap-community-of-practice/introduction_to_RAP/levels_of_RAP/)
+
+What good-good-like and resources to achieve this.
+
+Lorem ipsum dolor sit amet. Ut consequatur tempore ab perferendis voluptate est animi necessitatibus id autem temporibus et itaque minus. Et dolore saepe nam laudantium repellat eos Quis officia. Et quia obcaecati eum unde expedita quo dolore voluptas sit nisi Quis.
